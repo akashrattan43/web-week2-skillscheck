@@ -30,11 +30,13 @@ body {
     color: yellow;
     background:black;
     height: 30vh;
+    justify-content: space-around;
 }
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
     background-color: white;
+    justify-content: space-around;
   }
   
   .flex-container>div {
